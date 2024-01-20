@@ -1,0 +1,2 @@
+-- Active: 1705600494394@@127.0.0.1@3306@myDB
+SELECT * FROM companies
